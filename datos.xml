@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+	<jugador>
+		<nombre>Juan</nombre>
+		<edad>25</edad>
+		<altura>192</altura>
+	</jugador>
+	<jugador>
+		<nombre>Pablo</nombre>
+		<edad>35</edad>
+		<altura>199</altura>
+	</jugador>
+	<jugador>
+		<nombre>Enrique</nombre>
+		<edad>23</edad>
+		<altura>181</altura>
+	</jugador>
+	<jugador>
+		<nombre>Luis</nombre>
+		<edad>31</edad>
+		<altura>180</altura>
+	</jugador>
+	<jugador>
+		<nombre>Oscar</nombre>
+		<edad>20</edad>
+		<altura>179</altura>
+	</jugador>
+</jugadores>
