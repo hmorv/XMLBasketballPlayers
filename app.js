@@ -34,23 +34,7 @@ function mostrarDatos(objeto) {
 		}
 	}
 }
-/*
-function mostrarDatosFiltrados(objeto) {
-	var espacio = ' - ';
-	var separador = '<br />';
-	
-	for(var i = 0; i < objeto.length; i++) {
-		var resultado = '';
-		if(objeto[i].altura > '180') {
-			for(var propiedad in objeto[i]) {
-				resultado += propiedad + espacio + objeto[i][propiedad] + separador;
-			}
-			document.write(resultado);
-		} else {
-			continue;
-		}
-	}
-}*/
+
 function imprimirTresColumnas(res) {
 	/* esta funcion recibe como parametro un array de 3 posiciones y muestra los valores en las 3 div */
 	var col_izda = document.getElementById('col-izda');
